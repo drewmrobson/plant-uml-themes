@@ -1,0 +1,27 @@
+!$THEME = "bac"
+
+skinparam BoxPadding 5
+skinparam backgroundColor transparent
+
+' Group
+skinparam SequenceGroupBackgroundColor #00853e
+skinparam SequenceGroupBodyBackgroundColor #FFFFFF
+
+' Box
+skinparam SequenceBoxBackgroundColor white
+skinparam SequenceBoxBorderColor #001d34
+
+' Participant
+skinparam ParticipantBackgroundColor #7ad0e2
+skinparam ParticipantBorderColor #001d34
+
+' Note
+skinparam NoteBackgroundColor #dcc699
+skinparam NoteBorderColor #001d34
+
+' Lifeline
+skinparam SequenceLifeLineBorderColor #001d34
+skinparam SequenceLifeLineBackgroundColor transparent
+
+' Arrows
+skinparam SequenceArrowColor #001d34
